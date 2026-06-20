@@ -24,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/animishgupta/Leetcode-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/animishgupta/Leetcode-JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/animishgupta/Leetcode-JAVA/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/animishgupta/Leetcode-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/animishgupta/Leetcode-JAVA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/animishgupta/Leetcode-JAVA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/animishgupta/Leetcode-JAVA/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/animishgupta/Leetcode-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Matrix
 |  |
 | ------- |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/animishgupta/Leetcode-JAVA/tree/master/0141-linked-list-cycle) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/animishgupta/Leetcode-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
