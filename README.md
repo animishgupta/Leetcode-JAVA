@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/animishgupta/Leetcode-JAVA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/animishgupta/Leetcode-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/animishgupta/Leetcode-JAVA/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/animishgupta/Leetcode-JAVA/tree/master/0231-power-of-two) |
 ## Matrix
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/animishgupta/Leetcode-JAVA/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/animishgupta/Leetcode-JAVA/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,4 +88,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/animishgupta/Leetcode-JAVA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/animishgupta/Leetcode-JAVA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
