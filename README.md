@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/animishgupta/Leetcode-JAVA/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/animishgupta/Leetcode-JAVA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/animishgupta/Leetcode-JAVA/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/animishgupta/Leetcode-JAVA/tree/master/0412-fizz-buzz) |
 ## String Matching
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/animishgupta/Leetcode-JAVA/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/animishgupta/Leetcode-JAVA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/animishgupta/Leetcode-JAVA/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/animishgupta/Leetcode-JAVA/tree/master/0412-fizz-buzz) |
 ## Matrix
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/animishgupta/Leetcode-JAVA/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/animishgupta/Leetcode-JAVA/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
