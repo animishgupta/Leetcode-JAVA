@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/animishgupta/Leetcode-JAVA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/animishgupta/Leetcode-JAVA/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/animishgupta/Leetcode-JAVA/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/animishgupta/Leetcode-JAVA/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -64,10 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/animishgupta/Leetcode-JAVA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/animishgupta/Leetcode-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/animishgupta/Leetcode-JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0509-fibonacci-number](https://github.com/animishgupta/Leetcode-JAVA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/animishgupta/Leetcode-JAVA/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/animishgupta/Leetcode-JAVA/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/animishgupta/Leetcode-JAVA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/animishgupta/Leetcode-JAVA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/animishgupta/Leetcode-JAVA/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/animishgupta/Leetcode-JAVA/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
